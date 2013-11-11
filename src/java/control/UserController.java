@@ -23,7 +23,7 @@ public class UserController {
         session = null ;
     }
         
-    public boolean register(){
+    public boolean register(User newUser){
         return true ;
     }
     
@@ -82,7 +82,5 @@ public class UserController {
     public void setSession(User session) {
         this.session = session;
     }
-    
-    
     
 }

@@ -236,3 +236,15 @@ body{
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 }
+
+#submenuItemsPMs a, #submenuItemsManageEvents a{
+    text-decoration: none ;
+    color: white ;
+}
+#submenuItemsPMs a:hover, #submenuItemsManageEvents a:hover{
+    color: #f0bb2d ;
+}
+
+.active{
+    color: red ;
+}
