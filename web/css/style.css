@@ -237,11 +237,11 @@ body{
 	border-radius: 10px;
 }
 
-#submenuItemsPMs a, #submenuItemsManageEvents a{
+#submenuItemsPMs a, #submenuItemsManageEvents a, #submenuItemsManageUsers a{
     text-decoration: none ;
     color: white ;
 }
-#submenuItemsPMs a:hover, #submenuItemsManageEvents a:hover{
+#submenuItemsPMs a:hover, #submenuItemsManageEvents a:hover, #submenuItemsManageUsers a:hover{
     color: #f0bb2d ;
 }
 
